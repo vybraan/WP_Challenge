@@ -1,0 +1,27 @@
+.bg-darker {
+    background-color: black;
+}
+
+
+.logo-size{
+    width: 150px;
+    height: auto !important;
+}
+
+.btn-costum{
+    width: 200px;
+}
+
+.text-success-light{
+    color: #6CB33E;
+}
+.mycol{
+    border: solid 2px;
+    border-radius: 5px;
+    /*margin: 15px;*/
+}
+
+.mycolMiddle{
+    margin-left: 6px;
+    margin-right: 6px;
+}
